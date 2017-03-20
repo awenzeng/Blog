@@ -3,9 +3,9 @@
 menu:
   主页: /
   随想: /tags/随想/
-  技术: /
+  技术: /tags/技术/
   旅行: /tags/摄影/
- 
+
 # SubNav
 subnav:
   github: "https://github.com/AwenZeng"
@@ -18,7 +18,7 @@ subnav:
   #weixin: "#"
   #jianshu: "#"
   #douban: "#"
-  
+
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -29,7 +29,7 @@ rss: /atom.xml
 # 是否需要修改 root 路径
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
 # 请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
-root: 
+root:
 
 # Content
 
@@ -87,14 +87,14 @@ slider:
 #smart_menu:
 #  friends: false
 smart_menu:
-  innerArchive: 'All'
-  friends: 'Other'
-  aboutme: 'Me'
+  innerArchive: '所有文章'
+  friends: '其他'
+#  aboutme: 'Me'
 
 friends:
   风光摄影: http://awenyini.lofter.com/
   星空摄影: http://awenstarsky.lofter.com/
   人像摄影: http://awenfigure.lofter.com/
- 
 
-aboutme: 我是笔沫拾光.<br><br>独立，喜欢思考，喜欢摄影，喜欢码代码。<br><br>愿你有梦为马，天涯随处可栖。<br>
+
+aboutme: 我是笔沫拾光.<br><br>独立，喜欢思考，喜欢摄影，喜欢码代码。<br><br>Motto:感悟生命的意义，体验人生的美好！创造回忆，回忆人生。<br>

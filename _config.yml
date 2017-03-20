@@ -92,7 +92,8 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy: 
   type: git 
-  repository: git@github.com:awenzeng/awenzeng.github.io.git 
+  repository: git@github.com:awenzeng/awenzeng.github.io.git
+  branch: master
 
 
 #deploy:

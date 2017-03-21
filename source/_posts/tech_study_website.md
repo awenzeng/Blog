@@ -11,4 +11,8 @@ tags:
 
 [RxJava学习](http://gank.io/post/560e15be2dca930e00da1083) 
 
+[Android组件化](http://www.jianshu.com/p/2af3795957a8) 
+
+![](https://raw.githubusercontent.com/halibobo/BlogImage/master/blog/module/module.png?_=5703355)
+
 

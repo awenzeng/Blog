@@ -13,6 +13,8 @@ tags:
 
 [Android组件化](http://www.jianshu.com/p/2af3795957a8) 
 
-![](https://raw.githubusercontent.com/halibobo/BlogImage/master/blog/module/module.png?_=5703355)
+[Airbnb的Lottie动画开源框架](http://www.jianshu.com/p/9a2136ecbc7b)
 
+[Lottie官网](http://www.lottiefiles.com/?page=2)
 
+[MaterialDesign安卓开源库](https://github.com/lightSky/Awesome-MaterialDesign)

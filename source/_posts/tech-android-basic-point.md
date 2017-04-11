@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Android技术知识要点"
-date: 4/5/2017 6:57:14 PM 
+date: 4/11/2017 3:38:32 PM  
 comments: true
 tags: 
 	- 技术 
+	- Android
 ---
 ---
 # 一、项目中使用库工程问题要点
@@ -30,7 +31,27 @@ public Bitmap getBitmap() {
                 Bitmap.Config.ARGB_8888);  
         Canvas canvas = new Canvas(whiteBgBitmap);  
         canvas.drawColor(Color.WHITE);  
-        canvas.drawBitmap(mBackgroundBitmap, 0, 0, null);  
+        canvas.drawBitmap(mBackgroundBitmap, 0, 0, null);
         return whiteBgBitmap;  
     }  
 ``` 
+
+# 三、Https证书ctr(或cer)格式转bks格式
+- 1.要生成bks证书，需要bcprov-ext-jdk15on-151.jar([下载地址](http://www.bouncycastle.org/latest_releases.html)）
+- 2.cmd中输入以下命令
+![](/assets/img/tech_android_basic_point_img01.png);
+
+输入例子
+
+keytool -importcert -v -trustcacerts -alias xx -file E:\bks\xx.cer -keystore E:\bks\xx.bks -storetype BKS -providerclass org.bouncycastle.jce.provider.BouncyCastleProvider -providerpath E:\bks\bcprov-jdk15on-146.jar -storepass xxxxxx
+
+注意:
+
+1.注意命令中不能有换行 
+
+2.地址必须全地址 
+
+3.文件要符合Java命名规范
+
+- 把证书复制到Android项目的asset(或raw)目录中，加载证书即可https访问。（[Android加载证书https请求](http://www.jianshu.com/p/9a6c204616d2)）
+

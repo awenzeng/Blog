@@ -14,7 +14,7 @@ tags:
 | :---: | :---: | :---: | :---: | 
 | [Markdown学习](https://wizardforcel.gitbooks.io/markdown-simple-world/content/2.html)  | [Markdown语法学习](http://www.jianshu.com/p/0b257de21eb5)  |[RxJava学习](http://gank.io/post/560e15be2dca930e00da1083)|[Android组件化](http://www.jianshu.com/p/2af3795957a8)|
 | [Airbnb的Lottie动画开源框架](http://www.jianshu.com/p/9a2136ecbc7b)   | [Lottie官网](http://www.lottiefiles.com/?page=2)  |[MaterialDesign安卓开源库](https://github.com/lightSky/Awesome-MaterialDesign) | [常用框架源码解析](http://a.codekk.com/)   |
-| [Recyclerview学习](http://www.recyclerview.org/)   |  || |
+| [Recyclerview学习](http://www.recyclerview.org/)   |[视频播放器](http://www.jianshu.com/p/420f7b14d6f6)|[节操视频播放器](https://github.com/lipangit/JieCaoVideoPlayer)|[Java基础](http://leeeyou.xyz/2017/04/14/blog-2017-04-14-%E7%9F%A5%E8%AF%86%E6%B1%87%E6%80%BB%E4%B9%8BJava%E5%9F%BA%E7%A1%80/) |
 
 # 技术明星
 |  昵称   | 博客  | Github地址   |

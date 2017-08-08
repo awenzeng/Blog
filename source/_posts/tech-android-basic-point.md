@@ -53,5 +53,7 @@ keytool -importcert -v -trustcacerts -alias xx -file E:\bks\xx.cer -keystore E:\
 
 3.文件要符合Java命名规范
 
-- 把证书复制到Android项目的asset(或raw)目录中，加载证书即可https访问。（[Android加载证书https请求](http://www.jianshu.com/p/9a6c204616d2)）
+- 把证书复制到Android项目的asset(或raw)目录中，加载证书即可https访问。
+
+[Android加载证书https请求](http://www.jianshu.com/p/9a6c204616d2)——[Retrofit Https踩坑记录](http://www.jianshu.com/p/41bb549317ff)
 

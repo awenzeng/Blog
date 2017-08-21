@@ -126,11 +126,11 @@ tags:
 ```
 
 **4.对焦模式选择**
-PixelFormat中有多种模式，源码有解。
+由于部分智能手机，前置摄像头无对焦模式，对焦参数设置应区分前置摄像头
 
 ```java
    //对焦模式的选择 
-        if(cameraId == Camera.CameraInfo.CAMERA_FACING_BACK){//前置摄像头
+        if(cameraId == Camera.CameraInfo.CAMERA_FACING_BACK){
             parameters.setFocusMode(Camera.Parameters.FOCUS_MODE_AUTO);//手动区域自动对焦
         }
 ```

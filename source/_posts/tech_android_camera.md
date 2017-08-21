@@ -18,6 +18,8 @@ tags:
 
 相机：[CameraDemo(自定义相机)](https://github.com/awenzeng/CameraDemo)
 
+![](https://github.com/awenzeng/CameraDemo/raw/master/resource/camera_demo.gif)
+
 相册：[ImageSelector(仿微信图片选择相册)](https://github.com/ioneday/ImageSelector)
 
 联系人：[ContactSelector(联系人选择器)](https://github.com/awenzeng/ContactSelector)

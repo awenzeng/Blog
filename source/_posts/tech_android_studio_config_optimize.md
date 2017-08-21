@@ -12,7 +12,7 @@ tags:
 
 # 第1步：
 打开AS安装所在的位置，用记事本打开studio64.exe.vmoptions文件。具体如图：
-![](http://images2015.cnblogs.com/blog/598520/201605/598520-20160506104518685-39360703.jpg)
+![](/assets/img/as_gradle_first.jpg)
 
 # 第2步：
 打开“studio64.exe.vmoptions”文件后修改里面的值，修改后如下：
@@ -72,20 +72,20 @@ org.gradle.configureondemand=true
 ```
 # 第4步：
 修改gradle-wrapper.properties文件,如图：
-![](http://images2015.cnblogs.com/blog/598520/201605/598520-20160506105545029-285027467.jpg)
+![](/assets/img/as_gradle_fourth.jpg)
 
 # 第5步：
 Gradle官网下载地址：http://services.gradle.org/distributions
 如图：
-![](http://images2015.cnblogs.com/blog/598520/201605/598520-20160506105807419-1714342933.jpg)
+![](/assets/img/as_gradle_fifth.jpg)
 
 # 第6步：
 具体如图：
-![](http://images2015.cnblogs.com/blog/598520/201605/598520-20160506110009044-23302448.jpg)
+![](/assets/img/as_gradle_sixth.jpg)
 
 # 第7步：
 重新编译一下项目，结果如图：
-![](http://images2015.cnblogs.com/blog/598520/201605/598520-20160506110230451-1604313303.jpg)
+![](/assets/img/as_gradle_finish.jpg)
 
 
 参考资料：

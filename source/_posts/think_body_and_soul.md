@@ -1,13 +1,17 @@
 ---
 layout: post
-title: "你本是一个肉体，是什么驱使你前行"
+title: "你本是一个肉体，是什么驱使你前行[1]"
 date: 5/24/2017 4:14:37 PM 
 comments: true
 tags: 
 	- 随想 
-	- 肉体与灵魂
+	- 你本是一个肉体，是什么驱使你前行
+	- 原创
+	- 笔沫拾光
 ---
 ---
+文/笔沫拾光
+
 ![](/assets/img/think_body_and_soul.jpg)
 
 你本是一个肉体，是什么驱使你前行。

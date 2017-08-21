@@ -12,7 +12,7 @@ tags:
 ---
 文/霍华德*舒尔茨
 
-![](http://finance.youth.cn/finance_gdxw/201704/W020170413512129465452.jpg)
+![](/assets/img/think_iam_because_of_you.jpeg)
 
 非常感谢对我热情洋溢的介绍。我很荣幸、非常荣幸能够来到这里（清华大学）。我知道，过去这个讲堂也曾邀请过其他非常著名的演讲者。但是今天，我和大家分享的也许和之前的有点不太一样，并且会给你们提出一些出乎意料的挑战。
 
@@ -126,3 +126,5 @@ tags:
 
 
 [演讲视频](https://v.qq.com/x/page/y039389lgl3.html)
+
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=y039389lgl3&tiny=0&auto=0" allowfullscreen></iframe>

@@ -6,8 +6,12 @@ comments: true
 tags: 
 	- 随想 
 	- 人生的意义
+	- 原创
+	- 笔沫拾光
 ---
 ---
+文/笔沫拾光
+
 ![](/assets/img/think_life_meaningful.jpg)
 
 如果你问我,人生有啥意义？

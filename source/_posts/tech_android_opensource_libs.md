@@ -87,5 +87,13 @@ tags:
 
 * 相关介绍：[LitelPal介绍](http://www.jianshu.com/p/557682e0a9f0)
 
+**9.内存泄漏检测框架(LeakCanary)**
+
+项目描述：LeakCanary，它是一个Android和Java的内存泄露检测库，可以大幅度减少了开发中遇到的OOM问题。
+
+* 项目地址：[https://github.com/square/leakcanary](https://github.com/square/leakcanary)
+
+* 相关介绍：[LeakCanary介绍](https://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
+
 
 

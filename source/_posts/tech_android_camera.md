@@ -25,7 +25,7 @@ tags:
 联系人：[ContactSelector(联系人选择器)](https://github.com/awenzeng/ContactSelector)
 
 
-# 一、打开Camer
+# 一、打开Camera
 ```java
         try {
                 mCamera = Camera.open();//开启相机
@@ -36,7 +36,7 @@ tags:
                 return;
             }
 ```
-
+<!-- more -->
 # 二、设置Camera参数
 
 默认尺寸可以自由设置，这里取手机的分辨率为默认尺寸。
@@ -64,7 +64,7 @@ tags:
         parameters.setPictureSize(picSize.width, picSize.height);
         ....
 ```
-<!-- more -->
+
 **2.根据指定分辨率查找相机最佳预览分辨率并设置**
 
 ```java

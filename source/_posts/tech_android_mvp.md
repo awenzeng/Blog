@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Android基础】MVP模式学习及使用"
+title: "MVP模式学习及使用"
 date: 4/11/2017 6:41:32 PM 
 comments: true
 tags: 

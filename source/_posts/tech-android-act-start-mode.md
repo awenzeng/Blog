@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "【Android基础】Activity的启动模式"
+title: "Activity的启动模式"
 date: 3/25/2017 12:02:11 PM 
 comments: true
 tags: 
 	- 技术
 	- Android 
-	- Android基础
+	- Activity的启动模式
 ---
 ---
  在Android中，当我们多次启动同一个Activity时，系统会创建多个实例，并把它们按照先进后出的原则一一放入任务栈中，当我们按back键时，就会有一个activity从任务栈顶移除，重复下去，直到任务栈为空，系统就会回收这个任务栈。但是这样以来，系统多次启动同一个Activity时就会重复创建多个实例，这种做法显然不合理，为了能够优化这个问题，Android提供四种启动模式来修改系统这一默认行为。

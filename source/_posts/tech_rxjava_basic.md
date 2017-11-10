@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【响应式编程】Rxjava学习总结"
+title: "Rxjava学习总结"
 date: 3/16/2017 9:06:13 PM 
 comments: true
 tags: 

@@ -95,5 +95,13 @@ tags:
 
 * 相关介绍：[LeakCanary介绍](https://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
 
+**10.程序崩溃日志框架(ACRA)**
+
+项目描述：一个便于我们检测程序崩溃的框架 ACRA。又叫做 Application CrashReport for Android。
+
+* 项目地址：[https://github.com/ACRA/acra](https://github.com/ACRA/acra)
+
+* 相关介绍：[ACRA用法详解](http://blog.csdn.net/ququ9376/article/details/45933453)
+
 
 

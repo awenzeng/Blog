@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Android注解】Annontation注解的应用及介绍"
+title: "Annontation注解的应用及介绍"
 date: 8/1/2017 7:38:14 PM 
 comments: true
 tags: 

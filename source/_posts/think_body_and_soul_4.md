@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "你本是一个肉体，是什么驱使你前行[4]"
-date: 11/10/2017 3:57:57 PM 
+date:  10/16/2017 4:09:50 PM 
 comments: true
 tags: 
 	- 技术 
@@ -10,8 +10,6 @@ tags:
 ---
 ---
 文/丹尼尔
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/y1DIEBMlibSibW6dGSDXK7NQkqaWnWzodRWNUT4pYBP0CAL4yk7fuZMwSV7vJF52dsESguQBbZ51iavA95cvwvM9w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 **生活最大的危险，就是空虚的心灵。**
 

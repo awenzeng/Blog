@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通过Hexo自建博客"
+title: " Hexo+Github从零搭建技术博客"
 date: 3/12/2017 6:41:32 PM 
 comments: true
 tags: 

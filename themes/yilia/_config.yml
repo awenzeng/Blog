@@ -2,8 +2,9 @@
 
 menu:
   主页: /
-  随想: /tags/随想/
   技术: /tags/技术/
+  随想: /tags/随想/
+  音乐: "http://music.163.com/#/my/m/music/playlist?id=769698716"
 
 # SubNav
 subnav:
@@ -11,7 +12,7 @@ subnav:
   weibo: "http://weibo.com/awenyini"
   #rss: "http://awenyini.lofter.com"
   mail: "mailto:awenyini@foxmail.com"
- # zhihu: "#"
+  #music: "http://music.163.com/#/playlist?id=1988765233"
 
   #qq: "#"
   #weixin: "#"

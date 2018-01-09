@@ -33,8 +33,6 @@ tags:
 **你的思想有多高度，你的生活品位相应地就有多好。**
 
 
-![](https://mmbiz.qpic.cn/mmbiz_png/y1DIEBMlibSibW6dGSDXK7NQkqaWnWzodR8VFiczbup2ET0ojibY7INyuL9zZWs39bEianVTVcgGuSBMRIpNaCMWnwA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1https://mmbiz.qpic.cn/mmbiz_png/y1DIEBMlibSibW6dGSDXK7NQkqaWnWzodR8VFiczbup2ET0ojibY7INyuL9zZWs39bEianVTVcgGuSBMRIpNaCMWnwA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
-
 # 旅行的生活方式
 
 
@@ -48,8 +46,6 @@ tags:
 
 **你的见识有多宽广，你的审美品位相应地就有多美。**
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/Pu4icibcGGS26HkEwOibo9iaa2ehHfZV8ibSoFkC4iam1fIXiaU6icBlpQ6AFQF9pWiatDoeC7kx8ghPRxtEYqCEL3zolaw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
-
 # 运动的生活方式
 
 
@@ -62,8 +58,6 @@ tags:
 **当你爱上运动之后，你可能会不再腰酸背痛，还省了很多去医院的钱；你可能会慢慢戒掉了手机癌，认识了各行各业的新朋友；你可能会无法和同龄人一起变老，因为运动可以延缓衰老；你可能会对生活越来越有追求了，也提高了对生活品质的要求。**
 
 **你的身体有多健康，你的生活品质相应地就有多高。**
-![](https://mmbiz.qpic.cn/mmbiz_jpg/y1DIEBMlibSibW6dGSDXK7NQkqaWnWzodRI97CIgnYLibsO4ZicsZxMHAT1KW6JhTibQ22aBJUnGEeYWZQ4SJiaI7DQw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
-
 
 在所有的生活方式中，运动健身是最时尚健康的生活方式。而你会发现，一个有生活品质的人绝对会科学运动，智能手表、专业的运动服饰缺一不可，而对服装搭配有极强要求的人，也会对智能手表的外观有着更高要求，这也是 Nokia Steel 智能腕表被大家喜爱的原因。它除了带有运动及睡眠监测功能，还是一款适合各种场合佩戴的时尚手表，运动时尚两不误，是追求品质生活人士的绝佳首选。
 

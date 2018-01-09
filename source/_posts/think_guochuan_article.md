@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "执着的人是幸福的--郭川"
+title: "执着的人是幸福的"
 date: 8/11/2017 10:04:50 AM 
 comments: true
 tags: 

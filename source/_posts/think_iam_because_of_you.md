@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Ubuntu】我之存在，因为有你"
+title: "我之存在，因为有你"
 date: 7/19/2017 10:49:37 AM  
 comments: true
 tags: 

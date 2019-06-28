@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://awenzeng.me/2019/06/28/tech_android_framework_activity_loadLayout_III/</loc>
+    <lastmod>2019-06-28T02:09:42.051Z</lastmod>
+    <data>
+        <display>
+        <title>Activity布局加载流程源码分析(III)</title>
+        <pubTime>2019-06-28T02:09:39.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android框架源码解析</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/05/10/think_life_meaningful/</loc>
+    <lastmod>2019-06-27T08:15:15.354Z</lastmod>
+    <data>
+        <display>
+        <title>人生的意义</title>
+        <pubTime>2017-05-10T03:09:26.000Z</pubTime>
+        
+        <tag>随想</tag>
+         
+        <tag>原创</tag>
+         
+        <tag>笔沫拾光</tag>
+         
+        <tag>人生的意义</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/07/19/think_iam_because_of_you/</loc>
+    <lastmod>2019-06-27T08:15:15.352Z</lastmod>
+    <data>
+        <display>
+        <title>我之存在，因为有你</title>
+        <pubTime>2017-07-19T02:49:37.000Z</pubTime>
+        
+        <tag>随想</tag>
+         
+        <tag>演讲</tag>
+         
+        <tag>我之存在，因为有你</tag>
+         
+        <tag>霍华德*舒尔茨</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/08/11/think_guochuan_article/</loc>
+    <lastmod>2019-06-27T08:15:15.351Z</lastmod>
+    <data>
+        <display>
+        <title>执着的人是幸福的</title>
+        <pubTime>2017-08-11T02:04:50.000Z</pubTime>
+        
+        <tag>随想</tag>
+         
+        <tag>演讲</tag>
+         
+        <tag>执着的人是幸福的</tag>
+         
+        <tag>郭川</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/10/16/think_body_and_soul_4/</loc>
+    <lastmod>2019-06-27T08:15:15.349Z</lastmod>
+    <data>
+        <display>
+        <title>你本是一个肉体，是什么驱使你前行[4]</title>
+        <pubTime>2017-10-16T08:09:50.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>随想</tag>
+         
+        <tag>你本是一个肉体，是什么驱使你前行</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/05/10/think_china_history_map/</loc>
+    <lastmod>2019-06-27T08:15:15.349Z</lastmod>
+    <data>
+        <display>
+        <title>中国历史</title>
+        <pubTime>2017-05-10T06:21:44.000Z</pubTime>
+        
+        <tag>随想</tag>
+         
+        <tag>中国历史</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/09/04/think_body_and_soul_3/</loc>
+    <lastmod>2019-06-27T08:15:15.347Z</lastmod>
+    <data>
+        <display>
+        <title>你本是一个肉体，是什么驱使你前行[3]</title>
+        <pubTime>2017-09-04T11:02:57.000Z</pubTime>
+        
+        <tag>随想</tag>
+         
+        <tag>你本是一个肉体，是什么驱使你前行</tag>
+         
+        <tag>原创</tag>
+         
+        <tag>王阳明心学</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/08/21/think_body_and_soul_2/</loc>
+    <lastmod>2019-06-27T08:15:15.346Z</lastmod>
+    <data>
+        <display>
+        <title>你本是一个肉体，是什么驱使你前行[2]</title>
+        <pubTime>2017-08-21T08:58:49.000Z</pubTime>
+        
+        <tag>随想</tag>
+         
+        <tag>你本是一个肉体，是什么驱使你前行</tag>
+         
+        <tag>原创</tag>
+         
+        <tag>笔沫拾光</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/05/24/think_body_and_soul/</loc>
+    <lastmod>2019-06-27T08:15:15.345Z</lastmod>
+    <data>
+        <display>
+        <title>你本是一个肉体，是什么驱使你前行[1]</title>
+        <pubTime>2017-05-24T10:15:20.000Z</pubTime>
+        
+        <tag>随想</tag>
+         
+        <tag>你本是一个肉体，是什么驱使你前行</tag>
+         
+        <tag>原创</tag>
+         
+        <tag>笔沫拾光</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/03/17/tech_study_website/</loc>
+    <lastmod>2019-06-27T08:15:15.344Z</lastmod>
+    <data>
+        <display>
+        <title>学习网址</title>
+        <pubTime>2017-03-17T13:59:30.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/03/16/tech_rxjava_basic/</loc>
+    <lastmod>2019-06-27T08:15:15.343Z</lastmod>
+    <data>
+        <display>
+        <title>Rxjava学习总结</title>
+        <pubTime>2017-03-16T13:06:13.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Rxjava</tag>
+         
+        <tag>Rxandroid</tag>
+         
+        <tag>响应式编程</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/11/30/tech_logger/</loc>
+    <lastmod>2019-06-27T08:15:15.342Z</lastmod>
+    <data>
+        <display>
+        <title>Logger框架源码解析</title>
+        <pubTime>2017-11-30T06:20:58.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>开源框架源码解析</tag>
+         
+        <tag>Logger框架源码解析</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/11/16/tech_leakcanary/</loc>
+    <lastmod>2019-06-27T08:15:15.341Z</lastmod>
+    <data>
+        <display>
+        <title>LeakCanary框架源码解析</title>
+        <pubTime>2017-11-16T09:43:41.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>开源框架源码解析</tag>
+         
+        <tag>LeakCanary框架源码分析</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/05/17/tech_java_date_format/</loc>
+    <lastmod>2019-06-27T08:15:15.340Z</lastmod>
+    <data>
+        <display>
+        <title>SimpleDateFormat与Calendar使用详解</title>
+        <pubTime>2017-05-17T10:20:05.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Java</tag>
+         
+        <tag>Java基础</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/09/22/tech_java_collections/</loc>
+    <lastmod>2019-06-27T08:15:15.338Z</lastmod>
+    <data>
+        <display>
+        <title>Java集合类详解</title>
+        <pubTime>2017-09-22T09:05:45.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Java集合类</tag>
+         
+        <tag>转载</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/09/08/tech_http_breakpoint/</loc>
+    <lastmod>2019-06-27T08:15:15.336Z</lastmod>
+    <data>
+        <display>
+        <title>HTTP文件断点续传原理解析</title>
+        <pubTime>2017-09-08T11:59:12.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Http文件断点续传</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/11/10/tech_fragment/</loc>
+    <lastmod>2019-06-27T08:15:15.335Z</lastmod>
+    <data>
+        <display>
+        <title>Android Fragment使用小结及介绍</title>
+        <pubTime>2017-11-10T07:36:58.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Fragment</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/12/13/tech_design_pattern/</loc>
+    <lastmod>2019-06-27T08:15:15.333Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式-六大原则</title>
+        <pubTime>2017-12-13T08:14:35.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>设计模式</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/03/12/tech_create_blog_record/</loc>
+    <lastmod>2019-06-27T08:15:15.332Z</lastmod>
+    <data>
+        <display>
+        <title> Hexo+Github从零搭建技术博客</title>
+        <pubTime>2017-03-12T10:41:32.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>博客搭建</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/11/17/tech_butterknife/</loc>
+    <lastmod>2019-06-27T08:15:15.330Z</lastmod>
+    <data>
+        <display>
+        <title>Butter Knife框架源码解析</title>
+        <pubTime>2017-11-17T03:22:25.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>开源框架源码解析</tag>
+         
+        <tag>Butterknife框架源码解析</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/08/08/tech_android_studio_config_optimize/</loc>
+    <lastmod>2019-06-27T08:15:15.329Z</lastmod>
+    <data>
+        <display>
+        <title>【转载】Android Studio Gradle编译优化方法</title>
+        <pubTime>2017-08-08T06:30:24.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>AS Gradle优化</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/05/03/tech_android_opensource_libs/</loc>
+    <lastmod>2019-06-27T08:15:15.327Z</lastmod>
+    <data>
+        <display>
+        <title>Android常用开源框架</title>
+        <pubTime>2017-05-03T12:14:42.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>开源框架</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/06/30/tech_android_ndk/</loc>
+    <lastmod>2019-06-27T08:15:15.326Z</lastmod>
+    <data>
+        <display>
+        <title>Android studio NDK编译及so库生成方法讲解</title>
+        <pubTime>2017-06-30T11:48:17.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>NDK</tag>
+         
+        <tag>JNI C/C++</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/04/11/tech_android_mvp/</loc>
+    <lastmod>2019-06-27T08:15:15.324Z</lastmod>
+    <data>
+        <display>
+        <title>MVP模式学习及使用</title>
+        <pubTime>2017-04-11T10:41:32.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android基础</tag>
+         
+        <tag>MVP</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/10/17/tech_android_framework_window/</loc>
+    <lastmod>2019-06-27T08:15:15.323Z</lastmod>
+    <data>
+        <display>
+        <title>Android悬浮窗原理解析</title>
+        <pubTime>2017-10-17T03:35:14.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>悬浮窗</tag>
+         
+        <tag>WindowManager</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2018/01/08/tech_android_framework_view_draw/</loc>
+    <lastmod>2019-06-27T08:15:15.321Z</lastmod>
+    <data>
+        <display>
+        <title>View绘制三大流程源码分析</title>
+        <pubTime>2018-01-08T11:39:30.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android框架源码解析</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2018/03/05/tech_android_framework_surface_draw/</loc>
+    <lastmod>2019-06-27T08:15:15.320Z</lastmod>
+    <data>
+        <display>
+        <title>Android显示原理源码分析</title>
+        <pubTime>2018-03-05T12:42:59.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android框架源码解析</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/12/27/tech_android_framework_startactivity_launcher/</loc>
+    <lastmod>2019-06-27T08:15:15.317Z</lastmod>
+    <data>
+        <display>
+        <title>Activity启动流程源码分析(Launcher中)</title>
+        <pubTime>2017-12-27T10:47:13.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android框架源码解析</tag>
+         
+        <tag>Activity启动流程</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/12/26/tech_android_framework_startactivity/</loc>
+    <lastmod>2019-06-27T08:15:15.316Z</lastmod>
+    <data>
+        <display>
+        <title>Activity启动流程源码分析(应用中)</title>
+        <pubTime>2017-12-26T12:25:27.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android框架源码解析</tag>
+         
+        <tag>Activity启动流程</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/12/15/tech_android_framework_ipc/</loc>
+    <lastmod>2019-06-27T08:15:15.314Z</lastmod>
+    <data>
+        <display>
+        <title>Android跨进程通信方式(IPC)解析</title>
+        <pubTime>2017-12-15T08:05:27.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android框架源码解析</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/11/21/tech_android_framework_handler/</loc>
+    <lastmod>2019-06-27T08:15:15.313Z</lastmod>
+    <data>
+        <display>
+        <title>Android消息机制源码解析(Handler)</title>
+        <pubTime>2017-11-21T07:44:59.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android框架源码解析</tag>
+         
+        <tag>Android消息机制源码解析</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2018/01/09/tech_android_framework_dispatch_event/</loc>
+    <lastmod>2019-06-27T08:15:15.311Z</lastmod>
+    <data>
+        <display>
+        <title>Android事件分发机制源码分析</title>
+        <pubTime>2018-01-09T11:17:17.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android框架源码解析</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/12/14/tech_android_framework_binder/</loc>
+    <lastmod>2019-06-27T08:15:15.310Z</lastmod>
+    <data>
+        <display>
+        <title>Binder通信机制原理解析</title>
+        <pubTime>2017-12-14T11:24:20.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android框架源码解析</tag>
+         
+        <tag>Binder通信机制</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/11/23/tech_android_framework_appstart/</loc>
+    <lastmod>2019-06-27T08:15:15.308Z</lastmod>
+    <data>
+        <display>
+        <title>Android应用程序入口源码解析</title>
+        <pubTime>2017-11-23T13:43:41.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android框架源码解析</tag>
+         
+        <tag>Android应用程序入口源码解析</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2018/01/03/tech_android_framework_activity_loadLayout_II/</loc>
+    <lastmod>2019-06-27T08:15:15.307Z</lastmod>
+    <data>
+        <display>
+        <title>Activity布局加载流程源码分析(II)</title>
+        <pubTime>2018-01-03T10:55:03.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android框架源码解析</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/12/29/tech_android_framework_activity_loadLayout_I/</loc>
+    <lastmod>2019-06-27T08:15:15.305Z</lastmod>
+    <data>
+        <display>
+        <title>Activity布局加载流程源码分析(I)</title>
+        <pubTime>2017-12-29T11:20:32.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android框架源码解析</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2018/01/05/tech_android_framework_activity_decorview/</loc>
+    <lastmod>2019-06-27T08:15:15.303Z</lastmod>
+    <data>
+        <display>
+        <title>DecorView绘制流程源码分析</title>
+        <pubTime>2018-01-05T09:24:04.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android框架源码解析</tag>
+         
+        <tag>DecorView绘制流程</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/05/10/tech_android_encrypt_and_decode/</loc>
+    <lastmod>2019-06-27T08:15:15.302Z</lastmod>
+    <data>
+        <display>
+        <title>Android常用加解密算法</title>
+        <pubTime>2017-05-10T12:54:22.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>加解密算法</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/08/21/tech_android_camera/</loc>
+    <lastmod>2019-06-27T08:15:15.300Z</lastmod>
+    <data>
+        <display>
+        <title>Android Camera相机开发详解</title>
+        <pubTime>2017-08-21T11:34:21.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Android相机</tag>
+         
+        <tag>Camera</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/08/01/tech_android_annontation/</loc>
+    <lastmod>2019-06-27T08:15:15.299Z</lastmod>
+    <data>
+        <display>
+        <title>Annontation注解的应用及介绍</title>
+        <pubTime>2017-08-01T11:38:14.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android注解</tag>
+         
+        <tag>Java反射机制</tag>
+         
+        <tag>Java动态代理</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/04/11/tech-android-basic-point/</loc>
+    <lastmod>2019-06-27T08:15:15.297Z</lastmod>
+    <data>
+        <display>
+        <title>Android技术知识要点</title>
+        <pubTime>2017-04-11T07:38:32.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://awenzeng.me/2017/03/25/tech-android-act-start-mode/</loc>
+    <lastmod>2019-06-27T08:15:15.295Z</lastmod>
+    <data>
+        <display>
+        <title>Activity的启动模式</title>
+        <pubTime>2017-03-25T04:02:11.000Z</pubTime>
+        
+        <tag>技术</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>Activity的启动模式</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>

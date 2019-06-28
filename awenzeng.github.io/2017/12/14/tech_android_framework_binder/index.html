@@ -6,13 +6,13 @@
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
   <link rel="dns-prefetch" href="http://awenzeng.me">
-  <title>Binder通信机制原理解析 | 笔沫拾光的博客</title>
+  <title>Binder通信机制原理解析 | 笔沫的博客</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Binder是什么？Binder有啥用？作为一个应用开发者，如果我们开发的应用不涉及跨进程通信(IPC)，我想我们也不会去接触Binder。但不知你有没有发现，近来的Andorid面试，都会问及Android跨进程通信方面的知识，这又是为什么呢？如果你喜欢看Android源码，你就会发现Binder无处不在，Android系统中很多服务都是通过Binder来进行跨进程通信，了解Binder,弄懂">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Binder通信机制原理解析">
 <meta property="og:url" content="http://awenzeng.me/2017/12/14/tech_android_framework_binder/index.html">
-<meta property="og:site_name" content="笔沫拾光的博客">
+<meta property="og:site_name" content="笔沫的博客">
 <meta property="og:description" content="Binder是什么？Binder有啥用？作为一个应用开发者，如果我们开发的应用不涉及跨进程通信(IPC)，我想我们也不会去接触Binder。但不知你有没有发现，近来的Andorid面试，都会问及Android跨进程通信方面的知识，这又是为什么呢？如果你喜欢看Android源码，你就会发现Binder无处不在，Android系统中很多服务都是通过Binder来进行跨进程通信，了解Binder,弄懂">
 <meta property="og:image" content="http://awenzeng.me/assets/img/tech_android_binder_ipc.png">
 <meta property="og:image" content="http://awenzeng.me/assets/img/tech_android_binder_struct.png">
@@ -23,7 +23,7 @@
 <meta name="twitter:description" content="Binder是什么？Binder有啥用？作为一个应用开发者，如果我们开发的应用不涉及跨进程通信(IPC)，我想我们也不会去接触Binder。但不知你有没有发现，近来的Andorid面试，都会问及Android跨进程通信方面的知识，这又是为什么呢？如果你喜欢看Android源码，你就会发现Binder无处不在，Android系统中很多服务都是通过Binder来进行跨进程通信，了解Binder,弄懂">
 <meta name="twitter:image" content="http://awenzeng.me/assets/img/tech_android_binder_ipc.png">
   
-    <link rel="alternative" href="/atom.xml" title="笔沫拾光的博客" type="application/atom+xml">
+    <link rel="alternative" href="/atom.xml" title="笔沫的博客" type="application/atom+xml">
   
   
     <link rel="icon" href="/assets/img/avatar.ico">
@@ -63,7 +63,7 @@ var _hmt = _hmt || [];
 			<img src="/assets/img/avatar.jpg" class="js-avatar">
 		</a>
 		<hgroup>
-		  <h1 class="header-author"><a href="/">笔沫拾光</a></h1>
+		  <h1 class="header-author"><a href="/">笔沫</a></h1>
 		</hgroup>
 		
 		<p class="header-subtitle">有梦为马，随处可栖</p>
@@ -121,7 +121,7 @@ var _hmt = _hmt || [];
 				<img src="/assets/img/avatar.jpg" class="js-avatar">
 			</div>
 			<hgroup>
-			  <h1 class="header-author js-header-author">笔沫拾光</h1>
+			  <h1 class="header-author js-header-author">笔沫</h1>
 			</hgroup>
 			
 			<p class="header-subtitle"><i class="icon icon-quo-left"></i>有梦为马，随处可栖<i class="icon icon-quo-right"></i></p>
@@ -405,7 +405,7 @@ var _hmt = _hmt || [];
   <div class="outer">
     <div id="footer-info">
     	<div class="footer-left">
-    		&copy; 2019 笔沫拾光
+    		&copy; 2019 笔沫
     	</div>
       	<div class="footer-right">
       		<a href="http://hexo.io/" target="_blank">Hexo</a>  Theme <a href="https://github.com/litten/hexo-theme-yilia" target="_blank">Yilia</a> by Litten

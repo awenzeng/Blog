@@ -6,14 +6,14 @@
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
   <link rel="dns-prefetch" href="http://awenzeng.me">
-  <title>Android事件分发机制源码分析 | 笔沫拾光的博客</title>
+  <title>Android事件分发机制源码分析 | 笔沫的博客</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="昨天我们对View绘制三大流程源码已做了深入分析，所以关于View的绘制流程，我相信大家也有了一个大致的了解(如果不了解，请回看博文)。然而对于View，还有一个知识点，也是极其重要的，那就是View的事件分发机制(也即Android事件分发机制)。所以，今天我们就来谈谈View的事件分发机制，从源码的角度，跟随Touch事件流，走一遍流程。
 在开始分析之前，我们需要了解一些概念，如一次Touc">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Android事件分发机制源码分析">
 <meta property="og:url" content="http://awenzeng.me/2018/01/09/tech_android_framework_dispatch_event/index.html">
-<meta property="og:site_name" content="笔沫拾光的博客">
+<meta property="og:site_name" content="笔沫的博客">
 <meta property="og:description" content="昨天我们对View绘制三大流程源码已做了深入分析，所以关于View的绘制流程，我相信大家也有了一个大致的了解(如果不了解，请回看博文)。然而对于View，还有一个知识点，也是极其重要的，那就是View的事件分发机制(也即Android事件分发机制)。所以，今天我们就来谈谈View的事件分发机制，从源码的角度，跟随Touch事件流，走一遍流程。
 在开始分析之前，我们需要了解一些概念，如一次Touc">
 <meta property="og:image" content="http://awenzeng.me/assets/img/tech_android_dispatch_event_flow.png">
@@ -24,7 +24,7 @@
 在开始分析之前，我们需要了解一些概念，如一次Touc">
 <meta name="twitter:image" content="http://awenzeng.me/assets/img/tech_android_dispatch_event_flow.png">
   
-    <link rel="alternative" href="/atom.xml" title="笔沫拾光的博客" type="application/atom+xml">
+    <link rel="alternative" href="/atom.xml" title="笔沫的博客" type="application/atom+xml">
   
   
     <link rel="icon" href="/assets/img/avatar.ico">
@@ -64,7 +64,7 @@ var _hmt = _hmt || [];
 			<img src="/assets/img/avatar.jpg" class="js-avatar">
 		</a>
 		<hgroup>
-		  <h1 class="header-author"><a href="/">笔沫拾光</a></h1>
+		  <h1 class="header-author"><a href="/">笔沫</a></h1>
 		</hgroup>
 		
 		<p class="header-subtitle">有梦为马，随处可栖</p>
@@ -122,7 +122,7 @@ var _hmt = _hmt || [];
 				<img src="/assets/img/avatar.jpg" class="js-avatar">
 			</div>
 			<hgroup>
-			  <h1 class="header-author js-header-author">笔沫拾光</h1>
+			  <h1 class="header-author js-header-author">笔沫</h1>
 			</hgroup>
 			
 			<p class="header-subtitle"><i class="icon icon-quo-left"></i>有梦为马，随处可栖<i class="icon icon-quo-right"></i></p>
@@ -403,7 +403,7 @@ var _hmt = _hmt || [];
   <div class="outer">
     <div id="footer-info">
     	<div class="footer-left">
-    		&copy; 2019 笔沫拾光
+    		&copy; 2019 笔沫
     	</div>
       	<div class="footer-right">
       		<a href="http://hexo.io/" target="_blank">Hexo</a>  Theme <a href="https://github.com/litten/hexo-theme-yilia" target="_blank">Yilia</a> by Litten

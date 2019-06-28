@@ -6,7 +6,7 @@
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
   <link rel="dns-prefetch" href="http://awenzeng.me">
-  <title>Activity启动流程源码分析(Launcher中) | 笔沫拾光的博客</title>
+  <title>Activity启动流程源码分析(Launcher中) | 笔沫的博客</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Activity的启动方式，严格来说有两种形式。第一种是在Android应用中启动,第二种是从Launcher中点击应用快捷图标启动。Android应用中Activity启动流程，在上篇博文Activity启动流程源码分析(应用中)已介绍过了，想了解的同学，可以看看一下。本篇博文将会介绍从Launcher中启动Activity具体流程。
 在开始介绍之前，我们需要了解一些概念，如：
@@ -15,7 +15,7 @@ Activi">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Activity启动流程源码分析(Launcher中)">
 <meta property="og:url" content="http://awenzeng.me/2017/12/27/tech_android_framework_startactivity_launcher/index.html">
-<meta property="og:site_name" content="笔沫拾光的博客">
+<meta property="og:site_name" content="笔沫的博客">
 <meta property="og:description" content="Activity的启动方式，严格来说有两种形式。第一种是在Android应用中启动,第二种是从Launcher中点击应用快捷图标启动。Android应用中Activity启动流程，在上篇博文Activity启动流程源码分析(应用中)已介绍过了，想了解的同学，可以看看一下。本篇博文将会介绍从Launcher中启动Activity具体流程。
 在开始介绍之前，我们需要了解一些概念，如：
 
@@ -30,7 +30,7 @@ Activi">
 Activi">
 <meta name="twitter:image" content="http://awenzeng.me/assets/img/tech_activity_start_launcher_flow.png">
   
-    <link rel="alternative" href="/atom.xml" title="笔沫拾光的博客" type="application/atom+xml">
+    <link rel="alternative" href="/atom.xml" title="笔沫的博客" type="application/atom+xml">
   
   
     <link rel="icon" href="/assets/img/avatar.ico">
@@ -70,7 +70,7 @@ var _hmt = _hmt || [];
 			<img src="/assets/img/avatar.jpg" class="js-avatar">
 		</a>
 		<hgroup>
-		  <h1 class="header-author"><a href="/">笔沫拾光</a></h1>
+		  <h1 class="header-author"><a href="/">笔沫</a></h1>
 		</hgroup>
 		
 		<p class="header-subtitle">有梦为马，随处可栖</p>
@@ -128,7 +128,7 @@ var _hmt = _hmt || [];
 				<img src="/assets/img/avatar.jpg" class="js-avatar">
 			</div>
 			<hgroup>
-			  <h1 class="header-author js-header-author">笔沫拾光</h1>
+			  <h1 class="header-author js-header-author">笔沫</h1>
 			</hgroup>
 			
 			<p class="header-subtitle"><i class="icon icon-quo-left"></i>有梦为马，随处可栖<i class="icon icon-quo-right"></i></p>
@@ -412,7 +412,7 @@ var _hmt = _hmt || [];
   <div class="outer">
     <div id="footer-info">
     	<div class="footer-left">
-    		&copy; 2019 笔沫拾光
+    		&copy; 2019 笔沫
     	</div>
       	<div class="footer-right">
       		<a href="http://hexo.io/" target="_blank">Hexo</a>  Theme <a href="https://github.com/litten/hexo-theme-yilia" target="_blank">Yilia</a> by Litten

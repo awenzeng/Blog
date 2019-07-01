@@ -1,7 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e874fb3f-b7ae-43fd-9dc3-59e2f069030f" name="Default" comment="更新最新内容" />
+    <list default="true" id="e874fb3f-b7ae-43fd-9dc3-59e2f069030f" name="Default" comment="更新最新内容">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/03/12/tech_create_blog_record/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/03/12/tech_create_blog_record/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/03/16/tech_rxjava_basic/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/03/16/tech_rxjava_basic/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/03/17/tech_study_website/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/03/17/tech_study_website/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/03/25/tech-android-act-start-mode/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/03/25/tech-android-act-start-mode/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/04/11/tech-android-basic-point/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/04/11/tech-android-basic-point/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/04/11/tech_android_mvp/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/04/11/tech_android_mvp/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/05/03/tech_android_opensource_libs/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/05/03/tech_android_opensource_libs/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/05/10/tech_android_encrypt_and_decode/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/05/10/tech_android_encrypt_and_decode/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/05/10/think_china_history_map/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/05/10/think_china_history_map/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/05/10/think_life_meaningful/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/05/10/think_life_meaningful/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/05/17/tech_java_date_format/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/05/17/tech_java_date_format/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/05/24/think_body_and_soul/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/05/24/think_body_and_soul/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/06/30/tech_android_ndk/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/06/30/tech_android_ndk/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/07/19/think_iam_because_of_you/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/07/19/think_iam_because_of_you/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/08/01/tech_android_annontation/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/08/01/tech_android_annontation/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/08/08/tech_android_studio_config_optimize/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/08/08/tech_android_studio_config_optimize/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/08/11/think_guochuan_article/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/08/11/think_guochuan_article/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/08/21/tech_android_camera/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/08/21/tech_android_camera/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/08/21/think_body_and_soul_2/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/08/21/think_body_and_soul_2/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/09/04/think_body_and_soul_3/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/09/04/think_body_and_soul_3/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/09/08/tech_http_breakpoint/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/09/08/tech_http_breakpoint/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/09/22/tech_java_collections/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/09/22/tech_java_collections/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/10/16/think_body_and_soul_4/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/10/16/think_body_and_soul_4/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/10/17/tech_android_framework_window/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/10/17/tech_android_framework_window/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/11/10/tech_fragment/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/11/10/tech_fragment/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/11/16/tech_leakcanary/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/11/16/tech_leakcanary/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/11/17/tech_butterknife/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/11/17/tech_butterknife/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/11/21/tech_android_framework_handler/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/11/21/tech_android_framework_handler/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/11/23/tech_android_framework_appstart/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/11/23/tech_android_framework_appstart/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/11/30/tech_logger/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/11/30/tech_logger/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/12/13/tech_design_pattern/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/12/13/tech_design_pattern/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/12/14/tech_android_framework_binder/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/12/14/tech_android_framework_binder/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/12/15/tech_android_framework_ipc/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/12/15/tech_android_framework_ipc/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/12/26/tech_android_framework_startactivity/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/12/26/tech_android_framework_startactivity/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/12/27/tech_android_framework_startactivity_launcher/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/12/27/tech_android_framework_startactivity_launcher/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2017/12/29/tech_android_framework_activity_loadLayout_I/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2017/12/29/tech_android_framework_activity_loadLayout_I/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2018/01/03/tech_android_framework_activity_loadLayout_II/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2018/01/03/tech_android_framework_activity_loadLayout_II/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2018/01/05/tech_android_framework_activity_decorview/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2018/01/05/tech_android_framework_activity_decorview/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2018/01/08/tech_android_framework_view_draw/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2018/01/08/tech_android_framework_view_draw/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2018/01/09/tech_android_framework_dispatch_event/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2018/01/09/tech_android_framework_dispatch_event/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2018/03/05/tech_android_framework_surface_draw/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2018/03/05/tech_android_framework_surface_draw/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/2019/06/28/tech_android_framework_activity_loadLayout_III/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/2019/06/28/tech_android_framework_activity_loadLayout_III/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/03/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/03/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/04/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/04/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/05/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/05/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/06/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/06/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/07/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/07/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/08/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/08/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/09/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/09/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/10/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/10/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/11/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/11/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/12/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/12/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2017/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2018/01/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2018/01/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2018/03/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2018/03/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2018/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2018/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2019/06/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2019/06/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/2019/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/2019/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/archives/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/archives/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/baidusitemap.xml" afterPath="$PROJECT_DIR$/awenzeng.github.io/baidusitemap.xml" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/page/2/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/page/2/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/page/3/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/page/3/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/page/4/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/page/4/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/page/5/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/page/5/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/sitemap.xml" afterPath="$PROJECT_DIR$/awenzeng.github.io/sitemap.xml" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/AS-Gradle优化/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/AS-Gradle优化/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Activity启动流程/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Activity启动流程/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Activity的启动模式/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Activity的启动模式/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Android/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Android/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Android/page/2/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Android/page/2/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Android/page/3/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Android/page/3/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Android基础/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Android基础/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Android应用程序入口源码解析/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Android应用程序入口源码解析/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Android框架源码解析/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Android框架源码解析/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Android框架源码解析/page/2/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Android框架源码解析/page/2/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Android注解/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Android注解/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Android消息机制源码解析/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Android消息机制源码解析/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Android相机/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Android相机/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Binder通信机制/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Binder通信机制/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Butterknife框架源码解析/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Butterknife框架源码解析/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Camera/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Camera/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/DecorView绘制流程/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/DecorView绘制流程/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Fragment/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Fragment/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Http文件断点续传/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Http文件断点续传/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/JNI-C-C/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/JNI-C-C/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Java/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Java/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Java动态代理/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Java动态代理/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Java反射机制/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Java反射机制/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Java基础/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Java基础/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Java集合类/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Java集合类/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/LeakCanary框架源码分析/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/LeakCanary框架源码分析/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Logger框架源码解析/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Logger框架源码解析/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/MVP/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/MVP/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/NDK/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/NDK/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Rxandroid/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Rxandroid/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/Rxjava/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/Rxjava/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/WindowManager/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/WindowManager/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/中国历史/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/中国历史/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/人生的意义/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/人生的意义/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/你本是一个肉体，是什么驱使你前行/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/你本是一个肉体，是什么驱使你前行/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/加解密算法/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/加解密算法/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/博客搭建/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/博客搭建/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/原创/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/原创/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/响应式编程/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/响应式编程/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/开源框架/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/开源框架/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/开源框架源码解析/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/开源框架源码解析/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/悬浮窗/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/悬浮窗/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/我之存在，因为有你/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/我之存在，因为有你/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/执着的人是幸福的/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/执着的人是幸福的/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/技术/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/技术/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/技术/page/2/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/技术/page/2/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/技术/page/3/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/技术/page/3/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/技术/page/4/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/技术/page/4/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/演讲/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/演讲/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/王阳明心学/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/王阳明心学/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/笔沫拾光/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/笔沫拾光/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/设计模式/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/设计模式/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/转载/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/转载/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/郭川/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/郭川/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/随想/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/随想/index.html" />
+      <change beforePath="$PROJECT_DIR$/awenzeng.github.io/tags/霍华德-舒尔茨/index.html" afterPath="$PROJECT_DIR$/awenzeng.github.io/tags/霍华德-舒尔茨/index.html" />
+      <change beforePath="$PROJECT_DIR$/db.json" afterPath="$PROJECT_DIR$/db.json" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/tech_android_framework_activity_loadLayout_III.md" afterPath="$PROJECT_DIR$/source/_posts/tech_android_framework_activity_loadLayout_III.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,6 +169,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -50,17 +178,10 @@
               <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="Blog" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Blog" type="462c0819:PsiDirectoryNode" />
-              <item name="awenzeng.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -206,8 +327,8 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32829374" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -215,8 +336,8 @@
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>

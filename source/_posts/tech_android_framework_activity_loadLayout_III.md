@@ -16,7 +16,6 @@ tags:
 - **PhoneWindow：** 是Window类具体实现类，Activity中布局加载逻辑主要就是在此类中完成的。
 - **LayoutInflater：** 是布局填充类，主要就是将我们的layout转化为View。
 - **XmlPullParser：** 是XML解析器，主要是解析xml文件也即layout.xml文件。
-
 # 一、源码分析
 从[Activity布局加载流程源码分析(I)](http://blog.csdn.net/awenyini/article/details/78934390)文中，我们知道，在Activity的onCreate()中setContentView()后，最后也是调用PhoneWindow中的setContentView()方法。源码如下：
 ~~~java
@@ -26,6 +25,7 @@ tags:
         initActionBar();
     }
 ~~~
+<!-- more -->
 ~~~java
     //PhoneWindow中
     public void setContentView(int layoutResID) {
